@@ -1,0 +1,11 @@
+C:\Users\errah\ASPNET Course Program\ConsoleAppQR\bin\Release\net5.0\publish\ConsoleAppQR.exe
+C:\Users\errah\ASPNET Course Program\ConsoleAppQR\bin\Release\net5.0\publish\ConsoleAppQR.dll
+C:\Users\errah\ASPNET Course Program\ConsoleAppQR\bin\Release\net5.0\publish\ConsoleAppQR.deps.json
+C:\Users\errah\ASPNET Course Program\ConsoleAppQR\bin\Release\net5.0\publish\ConsoleAppQR.runtimeconfig.json
+C:\Users\errah\ASPNET Course Program\ConsoleAppQR\bin\Release\net5.0\publish\ConsoleAppQR.pdb
+C:\Users\errah\ASPNET Course Program\ConsoleAppQR\bin\Release\net5.0\publish\Microsoft.Win32.SystemEvents.dll
+C:\Users\errah\ASPNET Course Program\ConsoleAppQR\bin\Release\net5.0\publish\QRCoder.dll
+C:\Users\errah\ASPNET Course Program\ConsoleAppQR\bin\Release\net5.0\publish\System.Drawing.Common.dll
+C:\Users\errah\ASPNET Course Program\ConsoleAppQR\bin\Release\net5.0\publish\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\errah\ASPNET Course Program\ConsoleAppQR\bin\Release\net5.0\publish\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\errah\ASPNET Course Program\ConsoleAppQR\bin\Release\net5.0\publish\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll

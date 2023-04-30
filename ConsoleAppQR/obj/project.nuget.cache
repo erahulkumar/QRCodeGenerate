@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nea3etYDIT1xMAZwuEs/wzd43e+jd97ZqR6gG+cpDr7S5CEcTed76MmL060eeTliXuYPD7H5wGwAkWZWyLWWYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\errah\\ASPNET Course Program\\ConsoleAppQR\\ConsoleAppQR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\errah\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\errah\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\errah\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512",
+    "C:\\Users\\errah\\.nuget\\packages\\system.drawing.common\\5.0.3\\system.drawing.common.5.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
